@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Moshe</h1>
-<h3 align="center">Full-Stack Developer | Building Scalable & Dynamic Web Apps</h3>
+<h3 align="center">Front-End / Full-Stack Developer | Building Scalable & Dynamic Web Apps</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moshe-alper" alt="moshe-alper" /></a> </p>
 
 - 🔭 I’m currently working on [linkedin-clone](https://github.com/Moshe-Alper/linkedin-clone)
+- 🔭 Also working on Mister Bitcoin – a cryptocurrency tracking and transaction manager built with Angular and TypeScript (under development).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
